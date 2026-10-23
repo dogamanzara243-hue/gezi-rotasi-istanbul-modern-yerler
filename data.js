@@ -4,24 +4,29 @@ const DETAIL_DATA = {
     "badge": "Modern Yerler",
     "items": [
         {
-            "title": "Galataport",
-            "desc": "Boğaz kıyısında modern alışveriş ve kültür limanı."
+            "category": "Popüler Nokta 1",
+            "title": "Önemli Mekan 1 - Istanbul",
+            "desc": "Istanbul şehrinin en çok ziyaret edilen gözde lokasyonlarından biri."
         },
         {
-            "title": "Zorlu Performing Arts Center",
-            "desc": "Sanatın ve modern gösterilerin başkenti."
+            "category": "Popüler Nokta 2",
+            "title": "Önemli Mekan 2 - Istanbul",
+            "desc": "Tarihi ve kültürel dokusuyla büyüleyen özel bir nokta."
         },
         {
-            "title": "Kanyon Alışveriş Merkezi",
-            "desc": "Levent'in mimari harikası açık hava avm'si."
+            "category": "Popüler Nokta 3",
+            "title": "Önemli Mekan 3 - Istanbul",
+            "desc": "Gezginlerin rotasından eksik etmediği popüler bir durak."
         },
         {
-            "title": "Istanbul Modern",
-            "desc": "Karaköy'de çağdaş sanatın Türkiye'deki öncüsü."
+            "category": "Popüler Nokta 4",
+            "title": "Önemli Mekan 4 - Istanbul",
+            "desc": "Mimari ve doğal güzellikleriyle göz kamaştıran bölge."
         },
         {
-            "title": "Vialand Tema Park",
-            "desc": "Her yaşa uygun modern eğlence ve yaşam alanı."
+            "category": "Popüler Nokta 5",
+            "title": "Önemli Mekan 5 - Istanbul",
+            "desc": "Istanbul keşif turunun vazgeçilmez simgelerinden biri."
         }
     ]
 };
